@@ -1,0 +1,62 @@
+
+faire 3 PAGES
+
+1
+NOM 
+IMAGE
+BIO
+ 
+
+2 
+formulaire 
+avec bouton
+avec image arriere plan 
+ 
+
+3
+page admin 
+avec un menu sur la gauche 
+titre de page 
+tableau de données
+fil d'arriane
+
+                margin: 500px;
+                background-position: center;
+                height: 1000px;
+                width: 900px;
+                background-color: aliceblue;
+                text-align-last: center;
+                border-radius: auto;
+                align-items: center;
+                display: flex;
+                justify-content:center ;
+
+
+                display: flex;
+                width: 50%;
+                margin: auto;
+                height: 500;
+                font-family: Arial, sans-serif;
+                font-size: 16px;
+                line-height: 2;
+                text-align: center;
+                margin: 100px;
+                padding: 8px;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                background-color: #f9f9f9;
+
+font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 4;
+    text-align: center;
+    margin: 500px;
+    padding: 10px;
+    border: 6px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 5px 4px 7px #888888;
+    background-image: url(img/77eba96f-451f-41a9-a880-2ccb965e1926.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+            }
